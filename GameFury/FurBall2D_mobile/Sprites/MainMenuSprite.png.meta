@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 85d93db4a663e42939dbbc7d30bd8c3d
+timeCreated: 1475150566
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MainMenuSprite_0
+    21300002: MainMenuSprite_1
+    21300004: MainMenuSprite_2
+    21300006: MainMenuSprite_3
+    21300008: MainMenuSprite_5
+    21300010: MainMenuSprite_6
+    21300012: MainMenuSprite_7
+    21300014: MainMenuSprite_8
+    21300016: MainMenuSprite_9
+    21300018: MainMenuSprite_10
+    21300020: MainMenuSprite_11
+    21300022: MainMenuSprite_12
+    21300024: MainMenuSprite_13
+    21300026: MainMenuSprite_14
+    21300028: MainMenuSprite_15
+    21300030: MainMenuSprite_16
+    21300032: MainMenuSprite_17
+    21300034: MainMenuSprite_18
+    21300036: MainMenuSprite_19
+    21300038: MainMenuSprite_20
+    21300040: MainMenuSprite_21
+    21300042: MainMenuSprite_22
+    21300044: MainMenuSprite_23
+    21300046: MainMenuSprite_24
+    21300048: MainMenuSprite_25
+    21300050: MainMenuSprite_26
+    21300052: MainMenuSprite_27
+    21300054: MainMenuSprite_28
+    21300056: MainMenuSprite_29
+    21300058: MainMenuSprite_30
+    21300060: MainMenuSprite_31
+    21300062: MainMenuSprite_32
+    21300064: MainMenuSprite_33
+    21300066: MainMenuSprite_34
+    21300068: MainMenuSprite_35
+    21300070: MainMenuSprite_36
+    21300072: MainMenuSprite_37
+    21300074: MainMenuSprite_4
+    21300076: MainMenuSprite_38
+    21300078: MainMenuSprite_39
+    21300080: MainMenuSprite_40
+    21300082: MainMenuSprite_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainMenuSprite_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 985
+        width: 1285
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_1
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1536
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_2
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1581
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_3
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1587
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1579
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1586
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_7
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1379
+        width: 275
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_8
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1106
+        width: 667
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_9
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1608
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1253
+        width: 187
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1302
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_12
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1309
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_13
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1476
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_14
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1137
+        width: 277
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_15
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1186
+        width: 133
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_16
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1338
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1118
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1119
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 922
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_20
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 922
+        width: 119
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_21
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 930
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_22
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 901
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_23
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 901
+        width: 164
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_24
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 901
+        width: 110
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_25
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 831
+        width: 422
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 1283
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_27
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 836
+        width: 508
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_28
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 173
+        width: 668
+        height: 569
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_29
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 693
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_30
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 710
+        width: 299
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_31
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 145
+        width: 667
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_32
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 617
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_33
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 617
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_34
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 325
+        width: 186
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_35
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 244
+        width: 134
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_36
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 204
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_37
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 244
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 915
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_38
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1070
+        width: 78
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_39
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 1376
+        width: 42
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_40
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1007
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MainMenuSprite_41
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1013
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
